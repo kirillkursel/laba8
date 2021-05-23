@@ -31,3 +31,8 @@
         flex-basis: 50%
     }  
 }
+
+#featured-on img {
+    height: 200px;
+    margin: 0 30px;
+}

@@ -17,3 +17,7 @@
 .d-block {
     text-decoration: none;
 }
+
+.fill-80-viewport {
+    min-height: 80vh
+}
